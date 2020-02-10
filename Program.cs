@@ -6,7 +6,7 @@ namespace NatPagan
   {
     static void Main(string[] args)
     {
-      Console.WriteLine("Welcome to NatPagan");
+      Console.WriteLine("Hello, World, my name is Nat Pagan");
     }
   }
 }
